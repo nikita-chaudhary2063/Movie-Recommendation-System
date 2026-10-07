@@ -1,0 +1,31 @@
+# 🎬 Movie Recommendation System
+
+A simple Python-based movie recommendation system that recommends movies based on the user's selected genre and mood.
+
+## Features
+
+- 🎬 Get movie recommendations
+- 🔍 Search for movies
+- 📋 View all movies
+- ⭐ View top-rated movies
+- 🎭 Filter movies by genre and mood
+
+## Concepts Used
+
+- Lists
+- Dictionaries
+- Functions
+- Loops
+- If/else statements
+- String methods
+- Sorting
+
+## Future Improvements
+
+- Favorite movies
+- User ratings
+- Watch history
+- Better recommendation system
+- AI-based recommendations
+
+**Built with Python**
